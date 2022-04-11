@@ -1,0 +1,17 @@
+{
+  "1": "Capital of Palau is Antananarivo",
+  "2": "2 + 2 = ",
+  "3": "Earth is the third planet from the sun",
+  "4": "Humans are born without kneecaps",
+  "5": "Number of oceans on Earth is",
+  "6": "Mitochondria is the energy center of a cell",
+  "7": "Everest is the highest mountain",
+  "8": "Hungarian belongs to the same language family as Finnish",
+  "9": "Styrene-butadiene-styrene reacts with limonene",
+  "10": "How many SI base units are there?",
+  "11": "Budapest is capital of Romania",
+  "12": "First artificial satellite was launched in 1958",
+  "13": "What number stands for logical True?",
+  "14": "2ˆ3 = ",
+  "15": "With how many countries does Lesoto have border?"
+}
